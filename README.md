@@ -24,6 +24,15 @@ This project analyzes daily confirmed **monkeypox cases** using publicly availab
   - Hospitalization and travel history  
 - **Plots:** Line plots, bar charts, and moving averages to illustrate trends.
 
+## 🎥 monkeypox_data_analysis walkthrough
+
+To view the Rmd demo:
+
+- [screenRecording.mov](screenRecording.mov)
+
+⚠️ GitHub may not preview the file in-browser.  
+Click **"View raw"** to download and play it locally.
+
 ## How to Use
 1. Clone this repository:  
    ```bash
